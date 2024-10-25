@@ -1,3 +1,5 @@
 # demo
-Hi its a demo repo.we'll practice git here.
+Hi its a demo repo.
+<br>
+we'll practice git here.
 
